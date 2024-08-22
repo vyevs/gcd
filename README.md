@@ -1,0 +1,1 @@
+This module implements a func to calculate the greatest common divisor of two integers.
